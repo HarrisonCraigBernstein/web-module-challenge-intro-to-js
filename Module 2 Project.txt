@@ -1,0 +1,150 @@
+Module 2 Project
+
+//Task 1
+
+//#1a
+
+var votingAge = 18;
+console.log ('True')
+
+//#1b
+
+var firstThing = 13
+var secondThing = 7
+if (firstThing < 21)
+{ console.log ('No bust') }
+else
+{console.log (secondThing)}
+
+//#1c
+
+str = "23";
+         console.log (Number(str));
+                   
+
+//#1d
+
+var a = (5);
+var b = (10);
+
+(myFunction) = (a*b)
+console.log (myFunction)
+
+//Task 2
+
+var a = 1;
+var b = 7;
+
+dogYears = (a*b);
+
+console.log (dogYears)
+
+//Task 3
+
+var (a) = dogWeight
+var (b) = dogYears
+var (c) = hungryDog
+
+function hungryDog= 
+(c)
+
+{
+if b > 1
+
+(a) < (6), ((c) = (.05*a));
+(a) > (5), ((c) = (.04*a));
+(a) < (16), ((c) = (.02*a));
+
+else
+
+(b) < (.34), ((c) = (.1) * a))
+(b) < (.58), ((c) = (.05) * a))
+(b) < (1),   ((c) = (.04) * a))
+}
+console.log (hungryDog)
+
+
+//Task 4
+
+function game(user, computer)
+
+Math.random
+
+export const selectWinner = (user, computer) => {
+  let result = null;
+
+  if (user.choice === computer.choice) {
+    result = null;
+  }
+
+  if (user.choice === "rock" && computer.choice === "scissors") {
+    result = user1;
+  }
+
+  if (user1.choice === "scissors" && computer.choice === "paper") {
+    result = user;
+  }
+
+  if (user.choice === "paper" && computer.choice === "rock") {
+    result = user;
+  }
+
+  if (user.choice === "scissors" && computer.choice === "rock") {
+    (result) = computer;
+  }
+
+  if (user.choice === "paper" && user2.choice === "scissors") {
+    (result) = computer;
+  }
+
+  if (user.choice === "rock" && user2.choice === "paper") {
+    (result) = computer;
+  }
+
+  console.log (result);
+};
+
+//Task 5a
+
+var i = 5
+
+function(miles) = {i(.621)}
+
+console.log (miles)
+
+//Task 5b
+
+var i = int
+
+function (howMany) = i * 2.54
+console.log (howMany)
+
+//Task 6
+
+function annoyingSong((int) bottles of soda on the wall, (int) bottle of soda! You take one down and pass it around, (int-1) bottles of soda on the wall!)
+console.log (annoyingSong)
+
+//Task 7
+
+function (myGrade) = A, B, C, D, E 
+
+A = int > 89
+B = int > 79
+C = int > 69
+D = int > 59
+
+if > 89
+console.log (A)
+
+if > 79
+console.log (B)
+
+if > 69
+console.log (C)
+
+if > 59
+console.log (D)
+
+if < 59
+console.log (F)
+
